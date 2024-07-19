@@ -1,6 +1,8 @@
 # Quotes Polling App
 
-this package contains a server app use to fetch quotes from free API from RapiApi.  
+This is just practise project on Socket.io
+
+this project contains a server app use to fetch quotes from free API from RapiApi.  
 The link for API: https://rapidapi.com/afilummer/api/thought-of-the-day/playground/apiendpoint_11f196d7-1f09-496a-b54d-7dfeff7e0740
 
 Also contains cli tool use to fetch the quotes
